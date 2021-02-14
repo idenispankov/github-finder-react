@@ -1,6 +1,6 @@
 #GitHub-Finder-React
 
-- https://idenispankov.github.io/github-finder-react/
+- https://github-finder-react-1.netlify.app/
 
 # Overview
 
